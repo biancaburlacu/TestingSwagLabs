@@ -1,0 +1,12 @@
+
+target/TestingSwagLabs/
+.idea/compiler.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/runConfigurations.xml
+.idea/uiDesigner.xml
+target/.idea/compiler.xml
+target/.idea/jarRepositories.xml
+target/.idea/misc.xml
+target/.idea/runConfigurations.xml
+target/.idea/uiDesigner.xml
